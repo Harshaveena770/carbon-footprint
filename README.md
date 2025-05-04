@@ -22,7 +22,7 @@ Smart alerts integrated into a mobile/web dashboard.
 Optional compatibility with affordable plug-in sensors for more granular control.
 This hybrid approach balances precision, affordability, and ease of use, creating an intelligent assistant for sustainable and safe energy consumption at home.
 # Hardwear used 
-Arduino uno
+Arduino uno,
 current sensor
 resistance
 capaciter
