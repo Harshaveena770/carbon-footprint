@@ -1,4 +1,4 @@
-# carbon-footprint
+[hacakathon.ppt (1).pptx](https://github.com/user-attachments/files/20026723/hacakathon.ppt.1.pptx)# carbon-footprint
 track, reduce and act combating carbon footprint with technology which deals with calculation of current passing through the ecah household devices and inform us if there is any issue like low or high voltage power supply this project idea is taken from problem caused in real life
 # problem statement 
 The Homes today are powered by electricity—but run inefficiently due to undetected appliance faults.
@@ -23,8 +23,20 @@ Optional compatibility with affordable plug-in sensors for more granular control
 This hybrid approach balances precision, affordability, and ease of use, creating an intelligent assistant for sustainable and safe energy consumption at home.
 # Hardwear used 
 Arduino uno,
-current sensor
-resistance
-capaciter
-Bread Board
-Arduino USB Cable
+current sensor,
+resistance,
+capaciter,
+Bread Board,
+Arduino USB Cable.
+# Future Enhancements
+Software AI model enhancement for broader fault types. 
+Expansion to commercial buildings  and industries.
+Collaboration with appliance manufacturers. 
+Take our home energy-saving AI to factories, hospitals, and offices—stop waste, predict machine failures, and cut costs with zero extra hardware.
+# Document  
+[hacakathon.ppt.pptx](https://github.com/user-attachments/files/20026724/hacakathon.ppt.pptx)
+# Team members
+-G Harshaveena,
+-P Akshay ,
+-M Shashi kiran,
+-T. Akhil thallada,
